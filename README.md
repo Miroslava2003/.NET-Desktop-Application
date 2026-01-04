@@ -17,13 +17,13 @@ The application provides full **CRUD functionality** and a user-friendly desktop
 
 ## ⚙️ Features
 
-- ➕ Add new car
-- ✏️ Edit existing car information
-- ❌ Delete car records
-- 📋 View all cars
-- 🔍 Filter cars by brand and price
-- 🖼️ Image support for each car
-- 🗄️ SQL Server database integration
+- Add new car
+- Edit existing car information
+- Delete car records
+- View all cars
+- Filter cars by brand and price
+- Image support for each car
+- SQL Server database integration
 
 ---
 
